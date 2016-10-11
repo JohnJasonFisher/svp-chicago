@@ -151,10 +151,10 @@
       }
 
       if (file6) {
-       fileUpload.uploadFileToUrl(file6, uploadUrl, "Current Strategic Plan");
+       fileUpload.uploadFileToUrl(file6, uploadUrl, "Current-Strategic-Plan");
      }
      if (file7) {
-       fileUpload.uploadFileToUrl(file7, uploadUrl, "Most Recent Annual Report");
+       fileUpload.uploadFileToUrl(file7, uploadUrl, "Most-Recent-Annual-Report");
      }
 
       alert("Your files has been successfully uploaded!");
